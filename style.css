@@ -1,4 +1,7 @@
 /* CSS VARIABLES */
+html, body{
+    margin: 0;
+}
 :root{
 
     --coral: #CE7871;
