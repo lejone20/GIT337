@@ -13,7 +13,7 @@ body{
     background: var(--dk-gray);
 }
 h1{
-    margin: 1;
+    margin-left: 1;
     color: var(--coral);
     font-family: var(--fonts);
 }
