@@ -11,7 +11,9 @@ html, body{
 }
 body{
     background: var(--dk-gray);
-    font-family: var(--fonts);
+}
+h1{
+    margin: 1;
     color: var(--coral);
-    margin: 0;
+    font-family: var(--fonts);
 }
