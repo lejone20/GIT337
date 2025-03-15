@@ -13,7 +13,7 @@ body{
     background: var(--dk-gray);
 }
 h1{
-    align-content: center;
+    margin-left: 1;
     color: var(--coral);
 
 }
