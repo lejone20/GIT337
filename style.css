@@ -1,14 +1,10 @@
 /* CSS VARIABLES */
 :root{
-    --red: #613A43;
-    --tan: #837C6F;
-    --mint: #AFC0B4;
-    --white: #F6F3EA;
+
     --coral: #CE7871;
     --dk-gray: #222;
-
     --fonts: 'Trebuchet MS', Verdana, sans-serif;
-    --code-fonts: 'Lucida Console', monospace;
+
 }
 body{
     background: var(--dk-gray);
