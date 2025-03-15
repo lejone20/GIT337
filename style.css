@@ -6,7 +6,7 @@ html, body{
 
     --coral: #CE7871;
     --dk-gray: #222;
-    --fonts: 'Lucinda', Verdana, sans-serif;
+    --fonts: "Grey Qo", Verdana, sans-serif;
 
 }
 body{
@@ -15,5 +15,5 @@ body{
 h1{
     margin-left: 1;
     color: var(--coral);
-    font-family: var(--fonts);
+    font-family: "Grey Qo", cursive;
 }
