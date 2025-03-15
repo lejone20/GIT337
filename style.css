@@ -6,7 +6,7 @@ html, body{
 
     --coral: #CE7871;
     --dk-gray: #222;
-    --fonts: "Grey Qo", Verdana, sans-serif;
+	--fonts: 'grey-qo-regular', serif, Arial;
 
 }
 .grey-qo-regular {
